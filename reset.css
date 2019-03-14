@@ -1,0 +1,46 @@
+
+#esquerda{
+font-size:25px;
+color:red;
+}
+#esquerda1{
+font-size:20px;
+font-face:Arial;
+color:red;
+float:left;
+}
+#esquerda2{
+float:left;
+color:red;
+font-size:20px;
+}
+#esquerda3{
+font-size:20px;
+font-face:Arial;
+color:red;
+}
+#esquerda4{
+font-size:20px;
+font-face:Arial;
+color:red;
+}
+#esquerda1 ul{
+padding:0;
+}
+#esquerda2 ul{
+padding:0;
+}
+#esquerda4 ul{
+padding:0;
+}
+#direita ul{
+padding:0;
+}
+#direita{
+float:right;
+font-size:20px;
+font-face:Arial;
+color:red;
+
+}
+
